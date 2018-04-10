@@ -1,0 +1,17 @@
+﻿10/04/2018 18:02 | Event: open  | Id: 6c7f87f9 | Room: 9334 | Clients: 1
+11/04/2018 08:16 | Event: open  | Id: 3858ac1c | Room: youtz7 | Clients: 1
+11/04/2018 08:16 | Event: open  | Id: 2e4ba316 | Room: youtz7 | Clients: 2
+11/04/2018 08:17 | Event: open  | Id: 347d4b70 | Room: youtz7 | Clients: 3
+11/04/2018 08:17 | Event: open  | Id: cdf1e6e7 | Room: youtz7 | Clients: 4
+11/04/2018 08:17 | Event: open  | Id: 55190959 | Room: youtz7 | Clients: 5
+11/04/2018 08:17 | Event: open  | Id: 2c065ba0 | Room: youtz7 | Clients: 6
+11/04/2018 08:17 | Event: open  | Id: eccf206c | Room: youtz7 | Clients: 7
+11/04/2018 08:17 | Event: open  | Id: 2b9bf46a | Room: youtz7 | Clients: 8
+11/04/2018 08:17 | Event: close | Id: 3858ac1c | Room: youtz7 | Clients: 7
+11/04/2018 08:17 | Event: close | Id: 2e4ba316 | Room: youtz7 | Clients: 6
+11/04/2018 08:17 | Event: close | Id: 347d4b70 | Room: youtz7 | Clients: 5
+11/04/2018 08:17 | Event: close | Id: cdf1e6e7 | Room: youtz7 | Clients: 4
+11/04/2018 08:17 | Event: close | Id: 55190959 | Room: youtz7 | Clients: 3
+11/04/2018 08:17 | Event: close | Id: 2c065ba0 | Room: youtz7 | Clients: 2
+11/04/2018 08:17 | Event: close | Id: eccf206c | Room: youtz7 | Clients: 1
+11/04/2018 08:17 | Event: close | Id: 2b9bf46a | Room: youtz7 | Clients: 0
